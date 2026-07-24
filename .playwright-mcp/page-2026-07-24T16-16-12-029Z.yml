@@ -1,0 +1,1034 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - link "Skip to Content" [ref=e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner "Site" [ref=e5]:
+      - generic [ref=e6]:
+        - link [ref=e8] [cursor=pointer]:
+          - /url: https://understandingwar.org/
+          - img "Institute for the Study of War" [ref=e9]
+        - navigation "Mobile Toggle" [ref=e10]:
+          - generic [ref=e11]:
+            - button "Open search" [ref=e13] [cursor=pointer]
+            - link "Donate" [ref=e17] [cursor=pointer]:
+              - /url: https://understandingwar.org/donate/
+          - button "Menu" [ref=e18] [cursor=pointer]
+        - navigation "Primary"
+  - main [ref=e25]:
+    - article [ref=e26]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e32]:
+            - link "Home" [ref=e34] [cursor=pointer]:
+              - /url: https://understandingwar.org/
+            - text: "|"
+            - link "Analysis" [ref=e36] [cursor=pointer]:
+              - /url: https://understandingwar.org/analysis/
+            - text: "|"
+            - link "Russia & Ukraine" [ref=e38] [cursor=pointer]:
+              - /url: https://understandingwar.org/analysis/russia-ukraine/
+            - text: "| Russian Offensive Campaign Assessment"
+          - generic [ref=e40]:
+            - heading "Russian Offensive Campaign Assessment" [level=1] [ref=e41]
+            - figure [ref=e42]:
+              - img "ISW logo with acronym badge light tan" [ref=e43]
+        - combobox "Jump to" [ref=e47]:
+          - option "Jump to…" [disabled] [selected]
+          - option "About"
+          - option "Featured Insights"
+          - option "Research"
+          - option "Interactive Maps"
+          - option "Static Maps"
+          - option "Methodology"
+          - option "FAQ"
+        - generic [ref=e49]:
+          - generic "About" [ref=e50]:
+            - heading "About this product line" [level=2] [ref=e51]
+            - paragraph [ref=e52]: ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts.The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below.
+            - generic [ref=e53]:
+              - paragraph [ref=e54]: Other Key Product Lines From Russia & Ukraine Team
+              - link "Russian Occupation Update" [ref=e55] [cursor=pointer]:
+                - /url: /analysis/russia-ukraine/russian-occupation-update/
+              - link "Russian Force Generation & Adaptation Update" [ref=e60] [cursor=pointer]:
+                - /url: /analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/
+          - generic [ref=e65]:
+            - heading "Related Map Series" [level=6] [ref=e66]
+            - generic [ref=e67]:
+              - heading [level=4] [ref=e68]:
+                - link "Battle of Bakhmut" [ref=e69] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=battle-of-bakhmut
+              - heading [level=4] [ref=e70]:
+                - link "Battle for Kyiv" [ref=e71] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=battle-for-kyiv
+              - heading [level=4] [ref=e72]:
+                - link "Russia's Campaign for Mariupol" [ref=e73] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=russias-campaign-for-mariupol
+              - heading [level=4] [ref=e74]:
+                - link "Russian Offensive Operations in Ukraine" [ref=e75] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=russian-offensive-operations-in-ukraine
+              - heading [level=4] [ref=e76]:
+                - link "Ukraine's Kursk Campaign" [ref=e77] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=ukraines-kursk-campaign
+              - heading [level=4] [ref=e78]:
+                - link "Ukraine's Belgorod Campaign" [ref=e79] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=ukraines-belgorod-campaign
+              - heading [level=4] [ref=e80]:
+                - link "Ukrainian Counteroffensive Operations" [ref=e81] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=ukrainian-counteroffensive-operations
+              - heading [level=4] [ref=e82]:
+                - link "Russia's Campaign for the Donbas" [ref=e83] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=russias-campaign-for-the-donbas
+              - heading [level=4] [ref=e84]:
+                - link "Russian Phase Zero Operations in Europe" [ref=e85] [cursor=pointer]:
+                  - /url: /analysis/map-room/?_map_series=russian-phase-zero-operations-in-europe
+        - generic "Featured Insights" [ref=e86]:
+          - generic [ref=e88]:
+            - paragraph [ref=e89]: Russian Offensive Campaign Assessment
+            - heading "Featured Insights" [level=2] [ref=e90]
+          - generic [ref=e91]:
+            - generic [ref=e94]:
+              - generic [ref=e96]:
+                - paragraph [ref=e97]:
+                  - generic [ref=e98]: Special Report
+                - paragraph [ref=e99]:
+                  - time [ref=e100]: Apr 14, 2026
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]:
+                    - paragraph [ref=e104]:
+                      - generic [ref=e105]: Russia & Ukraine
+                    - paragraph [ref=e106]:
+                      - generic [ref=e107]: Ukraine
+                  - heading [level=3] [ref=e108]:
+                    - 'link "The Importance of Ukraine’s Fortress Belt: Geospatial Intelligence Terrain Analysis" [ref=e109] [cursor=pointer]':
+                      - /url: https://understandingwar.org/research/russia-ukraine/the-importance-of-ukraines-fortress-belt-geospatial-intelligence-terrain-analysis/
+                - link "READ MORE" [ref=e111] [cursor=pointer]:
+                  - /url: https://understandingwar.org/research/russia-ukraine/the-importance-of-ukraines-fortress-belt-geospatial-intelligence-terrain-analysis/
+            - generic [ref=e118]:
+              - paragraph [ref=e121]:
+                - time [ref=e122]: Mar 22, 2026
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]:
+                    - paragraph [ref=e126]:
+                      - generic [ref=e127]: Russia & Ukraine
+                    - paragraph [ref=e128]:
+                      - generic [ref=e129]: Ukraine
+                  - heading [level=3] [ref=e130]:
+                    - 'link "Russian Phase Zero Operations in Europe Date Range: September 9, 2025 to March 22, 2026" [ref=e131] [cursor=pointer]':
+                      - /url: https://understandingwar.org/map/russian-phase-zero-operations-in-europe-date-range-september-9-2025-to-march-22-2026-2/
+                - link "READ MORE" [ref=e133] [cursor=pointer]:
+                  - /url: https://understandingwar.org/map/russian-phase-zero-operations-in-europe-date-range-september-9-2025-to-march-22-2026-2/
+            - generic [ref=e140]:
+              - paragraph [ref=e143]:
+                - time [ref=e144]: Feb 24, 2026
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - generic [ref=e147]:
+                    - paragraph [ref=e148]:
+                      - generic [ref=e149]: Russia & Ukraine
+                    - paragraph [ref=e150]:
+                      - generic [ref=e151]: Ukraine
+                  - heading [level=3] [ref=e152]:
+                    - link "Russian Forces Have Not Managed to Seize the Remaining Territory in The Four Illegally Annexed Oblasts After Four Years of War, February 24, 2026" [ref=e153] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/russian-forces-have-not-managed-to-seize-the-remaining-territory-in-the-four-illegally-annexed-oblasts-after-four-years-of-war-february-24-2026/
+                - link "READ MORE" [ref=e155] [cursor=pointer]:
+                  - /url: https://understandingwar.org/map/russian-forces-have-not-managed-to-seize-the-remaining-territory-in-the-four-illegally-annexed-oblasts-after-four-years-of-war-february-24-2026/
+            - generic [ref=e162]:
+              - generic [ref=e164]:
+                - paragraph [ref=e165]:
+                  - generic [ref=e166]: Special Report
+                - paragraph [ref=e167]:
+                  - time [ref=e168]: Feb 24, 2026
+              - generic [ref=e169]:
+                - generic [ref=e170]:
+                  - paragraph [ref=e172]:
+                    - generic [ref=e173]: Cognitive Warfare
+                    - generic [ref=e174]: Russia & Ukraine
+                  - heading [level=3] [ref=e175]:
+                    - link "Putin’s Internet Crackdown Is Rooted in Weakness and a Need to Demand Greater War Sacrifices" [ref=e176] [cursor=pointer]:
+                      - /url: https://understandingwar.org/research/cognitive-warfare/putins-internet-crackdown-is-rooted-in-weakness-and-a-need-to-demand-greater-war-sacrifices/
+                - link "READ MORE" [ref=e178] [cursor=pointer]:
+                  - /url: https://understandingwar.org/research/cognitive-warfare/putins-internet-crackdown-is-rooted-in-weakness-and-a-need-to-demand-greater-war-sacrifices/
+        - generic "Research" [ref=e183]:
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - heading "Russian Offensive Campaign Assessment" [level=6] [ref=e187]
+              - heading "Research" [level=2] [ref=e188]
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - generic [ref=e191]:
+                  - heading "Search" [level=6] [ref=e192]
+                  - textbox "Enter keywords" [ref=e196]
+                - generic [ref=e197]:
+                  - heading "Date" [level=6] [ref=e198]
+                  - generic [ref=e199]:
+                    - textbox "Start date" [ref=e200]
+                    - textbox "End date" [ref=e201]
+                - generic [ref=e202]:
+                  - heading "Publication Type" [level=6] [ref=e203]
+                  - group "Publication Types Filter" [ref=e204]:
+                    - checkbox "Update(10580)" [ref=e205] [cursor=pointer]: Update
+                    - checkbox "Analysis(56)" [ref=e206] [cursor=pointer]: Analysis
+                    - checkbox "Multimedia(46)" [ref=e207] [cursor=pointer]:
+                      - text: Multimedia
+                      - img "close icon" [ref=e210]
+                    - checkbox "Video Briefings(46)" [ref=e212] [cursor=pointer]: Video Briefings
+                    - checkbox "Special Report(27)" [ref=e213] [cursor=pointer]: Special Report
+                    - checkbox "Long Form Report(3)" [ref=e214] [cursor=pointer]: Long Form Report
+                - generic [ref=e215]:
+                  - heading "Map Type" [level=6] [ref=e216]
+                  - group "Map Type" [ref=e217]:
+                    - checkbox "Static Map(14205)" [ref=e218] [cursor=pointer]: Static Map
+                    - checkbox "Interactive Map(10)" [ref=e219] [cursor=pointer]: Interactive Map
+                - generic [ref=e220]:
+                  - heading "Map Series" [level=6] [ref=e221]
+                  - group "Map Series" [ref=e222]:
+                    - checkbox "Battle for Kyiv(38)" [ref=e223] [cursor=pointer]: Battle for Kyiv
+                    - checkbox "Battle of Bakhmut(882)" [ref=e224] [cursor=pointer]: Battle of Bakhmut
+                    - checkbox "IDF Campaign in Syria(1)" [ref=e225] [cursor=pointer]: IDF Campaign in Syria
+                    - checkbox "Russia & Proxy Forces ORBATs in Syria(1)" [ref=e226] [cursor=pointer]: Russia & Proxy Forces ORBATs in Syria
+                    - checkbox "Russia's Campaign for Mariupol(106)" [ref=e227] [cursor=pointer]: Russia's Campaign for Mariupol
+                    - checkbox "Russia's Campaign for the Donbas(5270)" [ref=e228] [cursor=pointer]: Russia's Campaign for the Donbas
+                    - checkbox "Russian & Proxy Forces ORBATs(1)" [ref=e229] [cursor=pointer]: Russian & Proxy Forces ORBATs
+                    - checkbox "Russian Human Rights Abuses in Occupied Ukraine(1)" [ref=e230] [cursor=pointer]: Russian Human Rights Abuses in Occupied Ukraine
+                    - checkbox "Russian Offensive Operations in Ukraine(2166)" [ref=e231] [cursor=pointer]: Russian Offensive Operations in Ukraine
+                    - checkbox "Russian Phase Zero Operations in Europe(28)" [ref=e232] [cursor=pointer]: Russian Phase Zero Operations in Europe
+                    - link "See 4 more" [ref=e233] [cursor=pointer]
+                - button "Clear" [ref=e236] [cursor=pointer]
+                - generic [ref=e237]:
+                  - link "Read more" [ref=e238] [cursor=pointer]:
+                    - /url: /research/
+                  - link "Browse the research library" [ref=e239] [cursor=pointer]:
+                    - /url: /research
+              - generic [ref=e244]:
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - generic [ref=e249]:
+                      - paragraph [ref=e250]: Update
+                      - paragraph [ref=e251]: Jul 23, 2026
+                    - generic [ref=e252]:
+                      - paragraph [ref=e254]:
+                        - generic [ref=e255]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e256]: RUSSIA & UKRAINE
+                        - generic [ref=e257]: UKRAINE
+                      - heading [level=3] [ref=e258]:
+                        - link "Russian Offensive Campaign Assessment, July 23, 2026" [ref=e259] [cursor=pointer]:
+                          - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-23-2026/
+                      - link "READ MORE" [ref=e261] [cursor=pointer]:
+                        - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-23-2026/
+                  - generic [ref=e266]:
+                    - generic [ref=e267]:
+                      - generic [ref=e268]:
+                        - paragraph [ref=e269]: Static Map
+                        - paragraph [ref=e270]: Jul 23, 2026
+                      - link [ref=e272] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-23-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Russo-Ukrainian War, July 23, 2026 at 1:30 PM ET" [ref=e273]
+                    - generic [ref=e274]:
+                      - paragraph [ref=e276]:
+                        - generic [ref=e277]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e278]: RUSSIA & UKRAINE
+                        - generic [ref=e279]: UKRAINE
+                      - heading [level=3] [ref=e280]:
+                        - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 23, 2026 at 1:30 PM ET" [ref=e281] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-23-2026-at-130-pm-et/
+                  - generic [ref=e282]:
+                    - generic [ref=e283]:
+                      - generic [ref=e284]:
+                        - paragraph [ref=e285]: Static Map
+                        - paragraph [ref=e286]: Jul 23, 2026
+                      - link [ref=e288] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-23-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Lyman Tactical Area, July 23, 2026 at 1:30 PM ET" [ref=e289]
+                    - generic [ref=e290]:
+                      - paragraph [ref=e292]:
+                        - generic [ref=e293]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e294]: RUSSIA & UKRAINE
+                        - generic [ref=e295]: UKRAINE
+                      - heading [level=3] [ref=e296]:
+                        - link "Assessed Control of Terrain in the Lyman Tactical Area, July 23, 2026 at 1:30 PM ET" [ref=e297] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-23-2026-at-130-pm-et/
+                  - generic [ref=e298]:
+                    - generic [ref=e299]:
+                      - generic [ref=e300]:
+                        - paragraph [ref=e301]: Static Map
+                        - paragraph [ref=e302]: Jul 23, 2026
+                      - link [ref=e304] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-23-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain near Kostyantynivka, July 23, 2026 at 1:30 PM ET" [ref=e305]
+                    - generic [ref=e306]:
+                      - paragraph [ref=e308]:
+                        - generic [ref=e309]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e310]: RUSSIA & UKRAINE
+                        - generic [ref=e311]: UKRAINE
+                      - heading [level=3] [ref=e312]:
+                        - link "Assessed Control of Terrain near Kostyantynivka, July 23, 2026 at 1:30 PM ET" [ref=e313] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-23-2026-at-130-pm-et/
+                  - generic [ref=e314]:
+                    - generic [ref=e316]:
+                      - paragraph [ref=e317]: Update
+                      - paragraph [ref=e318]: Jul 22, 2026
+                    - generic [ref=e319]:
+                      - paragraph [ref=e321]:
+                        - generic [ref=e322]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e323]: RUSSIA & UKRAINE
+                        - generic [ref=e324]: UKRAINE
+                      - heading [level=3] [ref=e325]:
+                        - link "Russian Offensive Campaign Assessment, July 22, 2026" [ref=e326] [cursor=pointer]:
+                          - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-22-2026/
+                      - link "READ MORE" [ref=e328] [cursor=pointer]:
+                        - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-22-2026/
+                  - generic [ref=e333]:
+                    - generic [ref=e334]:
+                      - generic [ref=e335]:
+                        - paragraph [ref=e336]: Static Map
+                        - paragraph [ref=e337]: Jul 22, 2026
+                      - link [ref=e339] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-22-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Russo-Ukrainian War, July 22, 2026 at 1:30 PM ET" [ref=e340]
+                    - generic [ref=e341]:
+                      - paragraph [ref=e343]:
+                        - generic [ref=e344]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e345]: RUSSIA & UKRAINE
+                        - generic [ref=e346]: UKRAINE
+                      - heading [level=3] [ref=e347]:
+                        - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 22, 2026 at 1:30 PM ET" [ref=e348] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-22-2026-at-130-pm-et/
+                  - generic [ref=e349]:
+                    - generic [ref=e350]:
+                      - generic [ref=e351]:
+                        - paragraph [ref=e352]: Static Map
+                        - paragraph [ref=e353]: Jul 22, 2026
+                      - link [ref=e355] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-july-22-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Kostyantynivka-Druzhkivka Tactical Area, July 22, 2026 at 1:30 PM ET" [ref=e356]
+                    - generic [ref=e357]:
+                      - paragraph [ref=e359]:
+                        - generic [ref=e360]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e361]: RUSSIA & UKRAINE
+                        - generic [ref=e362]: UKRAINE
+                      - heading [level=3] [ref=e363]:
+                        - link "Assessed Control of Terrain in the Kostyantynivka-Druzhkivka Tactical Area, July 22, 2026 at 1:30 PM ET" [ref=e364] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-july-22-2026-at-130-pm-et/
+                  - generic [ref=e365]:
+                    - generic [ref=e366]:
+                      - generic [ref=e367]:
+                        - paragraph [ref=e368]: Static Map
+                        - paragraph [ref=e369]: Jul 22, 2026
+                      - link [ref=e371] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-22-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain near Kostyantynivka, July 22, 2026 at 1:30 PM ET" [ref=e372]
+                    - generic [ref=e373]:
+                      - paragraph [ref=e375]:
+                        - generic [ref=e376]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e377]: RUSSIA & UKRAINE
+                        - generic [ref=e378]: UKRAINE
+                      - heading [level=3] [ref=e379]:
+                        - link "Assessed Control of Terrain near Kostyantynivka, July 22, 2026 at 1:30 PM ET" [ref=e380] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-22-2026-at-130-pm-et/
+                  - generic [ref=e381]:
+                    - generic [ref=e382]:
+                      - generic [ref=e383]:
+                        - paragraph [ref=e384]: Static Map
+                        - paragraph [ref=e385]: Jul 22, 2026
+                      - link [ref=e387] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-dobropillya-tactical-area-july-22-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Dobropillya Tactical Area, July 22, 2026 at 1:30 PM ET" [ref=e388]
+                    - generic [ref=e389]:
+                      - paragraph [ref=e391]:
+                        - generic [ref=e392]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e393]: RUSSIA & UKRAINE
+                        - generic [ref=e394]: UKRAINE
+                      - heading [level=3] [ref=e395]:
+                        - link "Assessed Control of Terrain in the Dobropillya Tactical Area, July 22, 2026 at 1:30 PM ET" [ref=e396] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-dobropillya-tactical-area-july-22-2026-at-130-pm-et/
+                  - generic [ref=e397]:
+                    - generic [ref=e398]:
+                      - generic [ref=e399]:
+                        - paragraph [ref=e400]: Static Map
+                        - paragraph [ref=e401]: Jul 22, 2026
+                      - link [ref=e403] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-agglomeration-july-22-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Pokrovsk Agglomeration, July 22, 2026 at 1:30 PM ET" [ref=e404]
+                    - generic [ref=e405]:
+                      - paragraph [ref=e407]:
+                        - generic [ref=e408]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e409]: RUSSIA & UKRAINE
+                        - generic [ref=e410]: UKRAINE
+                      - heading [level=3] [ref=e411]:
+                        - link "Assessed Control of Terrain in the Pokrovsk Agglomeration, July 22, 2026 at 1:30 PM ET" [ref=e412] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-agglomeration-july-22-2026-at-130-pm-et/
+                  - generic [ref=e413]:
+                    - generic [ref=e415]:
+                      - paragraph [ref=e416]: Update
+                      - paragraph [ref=e417]: Jul 21, 2026
+                    - generic [ref=e418]:
+                      - paragraph [ref=e420]:
+                        - generic [ref=e421]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e422]: RUSSIA & UKRAINE
+                        - generic [ref=e423]: UKRAINE
+                      - heading [level=3] [ref=e424]:
+                        - link "Russian Offensive Campaign Assessment, July 21, 2026" [ref=e425] [cursor=pointer]:
+                          - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-21-2026/
+                      - link "READ MORE" [ref=e427] [cursor=pointer]:
+                        - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-21-2026/
+                  - generic [ref=e432]:
+                    - generic [ref=e433]:
+                      - generic [ref=e434]:
+                        - paragraph [ref=e435]: Static Map
+                        - paragraph [ref=e436]: Jul 21, 2026
+                      - link [ref=e438] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Russo-Ukrainian War, July 21, 2026 at 1:30 PM ET" [ref=e439]
+                    - generic [ref=e440]:
+                      - paragraph [ref=e442]:
+                        - generic [ref=e443]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e444]: RUSSIA & UKRAINE
+                        - generic [ref=e445]: UKRAINE
+                      - heading [level=3] [ref=e446]:
+                        - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 21, 2026 at 1:30 PM ET" [ref=e447] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-21-2026-at-130-pm-et/
+                  - generic [ref=e448]:
+                    - generic [ref=e449]:
+                      - generic [ref=e450]:
+                        - paragraph [ref=e451]: Static Map
+                        - paragraph [ref=e452]: Jul 21, 2026
+                      - link [ref=e454] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-vovchansk-direction-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Vovchansk Direction, July 21, 2026 at 1:30 PM ET" [ref=e455]
+                    - generic [ref=e456]:
+                      - paragraph [ref=e458]:
+                        - generic [ref=e459]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e460]: RUSSIA & UKRAINE
+                        - generic [ref=e461]: UKRAINE
+                      - heading [level=3] [ref=e462]:
+                        - link "Assessed Control of Terrain in the Vovchansk Direction, July 21, 2026 at 1:30 PM ET" [ref=e463] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-vovchansk-direction-july-21-2026-at-130-pm-et/
+                  - generic [ref=e464]:
+                    - generic [ref=e465]:
+                      - generic [ref=e466]:
+                        - paragraph [ref=e467]: Static Map
+                        - paragraph [ref=e468]: Jul 21, 2026
+                      - link [ref=e470] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kupyansk-direction-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Kupyansk Direction, July 21, 2026 at 1:30 PM ET" [ref=e471]
+                    - generic [ref=e472]:
+                      - paragraph [ref=e474]:
+                        - generic [ref=e475]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e476]: RUSSIA & UKRAINE
+                        - generic [ref=e477]: UKRAINE
+                      - heading [level=3] [ref=e478]:
+                        - link "Assessed Control of Terrain in the Kupyansk Direction, July 21, 2026 at 1:30 PM ET" [ref=e479] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kupyansk-direction-july-21-2026-at-130-pm-et/
+                  - generic [ref=e480]:
+                    - generic [ref=e481]:
+                      - generic [ref=e482]:
+                        - paragraph [ref=e483]: Static Map
+                        - paragraph [ref=e484]: Jul 21, 2026
+                      - link [ref=e486] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-kupyansk-city-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in Kupyansk City, July 21, 2026 at 1:30 PM ET" [ref=e487]
+                    - generic [ref=e488]:
+                      - paragraph [ref=e490]:
+                        - generic [ref=e491]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e492]: RUSSIA & UKRAINE
+                        - generic [ref=e493]: UKRAINE
+                      - heading [level=3] [ref=e494]:
+                        - link "Assessed Control of Terrain in Kupyansk City, July 21, 2026 at 1:30 PM ET" [ref=e495] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-kupyansk-city-july-21-2026-at-130-pm-et/
+                  - generic [ref=e496]:
+                    - generic [ref=e497]:
+                      - generic [ref=e498]:
+                        - paragraph [ref=e499]: Static Map
+                        - paragraph [ref=e500]: Jul 21, 2026
+                      - link [ref=e502] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-borova-tactical-area-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Borova Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e503]
+                    - generic [ref=e504]:
+                      - paragraph [ref=e506]:
+                        - generic [ref=e507]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e508]: RUSSIA & UKRAINE
+                        - generic [ref=e509]: UKRAINE
+                      - heading [level=3] [ref=e510]:
+                        - link "Assessed Control of Terrain in the Borova Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e511] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-borova-tactical-area-july-21-2026-at-130-pm-et/
+                  - generic [ref=e512]:
+                    - generic [ref=e513]:
+                      - generic [ref=e514]:
+                        - paragraph [ref=e515]: Static Map
+                        - paragraph [ref=e516]: Jul 21, 2026
+                      - link [ref=e518] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Lyman Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e519]
+                    - generic [ref=e520]:
+                      - paragraph [ref=e522]:
+                        - generic [ref=e523]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e524]: RUSSIA & UKRAINE
+                        - generic [ref=e525]: UKRAINE
+                      - heading [level=3] [ref=e526]:
+                        - link "Assessed Control of Terrain in the Lyman Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e527] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-21-2026-at-130-pm-et/
+                  - generic [ref=e528]:
+                    - generic [ref=e529]:
+                      - generic [ref=e530]:
+                        - paragraph [ref=e531]: Static Map
+                        - paragraph [ref=e532]: Jul 21, 2026
+                      - link [ref=e534] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Kostyantynivka-Druzhkivka Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e535]
+                    - generic [ref=e536]:
+                      - paragraph [ref=e538]:
+                        - generic [ref=e539]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e540]: RUSSIA & UKRAINE
+                        - generic [ref=e541]: UKRAINE
+                      - heading [level=3] [ref=e542]:
+                        - link "Assessed Control of Terrain in the Kostyantynivka-Druzhkivka Tactical Area, July 21, 2026 at 1:30 PM ET" [ref=e543] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-july-21-2026-at-130-pm-et/
+                  - generic [ref=e544]:
+                    - generic [ref=e545]:
+                      - generic [ref=e546]:
+                        - paragraph [ref=e547]: Static Map
+                        - paragraph [ref=e548]: Jul 21, 2026
+                      - link [ref=e550] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-july-21-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in Eastern Dnipropetrovsk Oblast, July 21, 2026 at 1:30 PM ET" [ref=e551]
+                    - generic [ref=e552]:
+                      - paragraph [ref=e554]:
+                        - generic [ref=e555]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e556]: RUSSIA & UKRAINE
+                        - generic [ref=e557]: UKRAINE
+                      - heading [level=3] [ref=e558]:
+                        - link "Assessed Control of Terrain in Eastern Dnipropetrovsk Oblast, July 21, 2026 at 1:30 PM ET" [ref=e559] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-dnipropetrovsk-oblast-july-21-2026-at-130-pm-et/
+                  - generic [ref=e560]:
+                    - generic [ref=e562]:
+                      - paragraph [ref=e563]: Update
+                      - paragraph [ref=e564]: Jul 20, 2026
+                    - generic [ref=e565]:
+                      - paragraph [ref=e567]:
+                        - generic [ref=e568]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e569]: RUSSIA & UKRAINE
+                        - generic [ref=e570]: UKRAINE
+                      - heading [level=3] [ref=e571]:
+                        - link "Russian Offensive Campaign Assessment, July 20, 2026" [ref=e572] [cursor=pointer]:
+                          - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-20-2026/
+                      - link "READ MORE" [ref=e574] [cursor=pointer]:
+                        - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-20-2026/
+                  - generic [ref=e579]:
+                    - generic [ref=e580]:
+                      - generic [ref=e581]:
+                        - paragraph [ref=e582]: Static Map
+                        - paragraph [ref=e583]: Jul 20, 2026
+                      - link [ref=e585] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-sumy-direction-july-20-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Sumy Direction, July 20, 2026 at 1:30 PM ET" [ref=e586]
+                    - generic [ref=e587]:
+                      - paragraph [ref=e589]:
+                        - generic [ref=e590]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e591]: RUSSIA & UKRAINE
+                        - generic [ref=e592]: UKRAINE
+                      - heading [level=3] [ref=e593]:
+                        - link "Assessed Control of Terrain in the Sumy Direction, July 20, 2026 at 1:30 PM ET" [ref=e594] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-sumy-direction-july-20-2026-at-130-pm-et/
+                  - generic [ref=e595]:
+                    - generic [ref=e596]:
+                      - generic [ref=e597]:
+                        - paragraph [ref=e598]: Static Map
+                        - paragraph [ref=e599]: Jul 20, 2026
+                      - link [ref=e601] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-krasnopillya-direction-july-20-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Krasnopillya Direction, July 20, 2026 at 1:30 PM ET" [ref=e602]
+                    - generic [ref=e603]:
+                      - paragraph [ref=e605]:
+                        - generic [ref=e606]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e607]: RUSSIA & UKRAINE
+                        - generic [ref=e608]: UKRAINE
+                      - heading [level=3] [ref=e609]:
+                        - link "Assessed Control of Terrain in the Krasnopillya Direction, July 20, 2026 at 1:30 PM ET" [ref=e610] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-krasnopillya-direction-july-20-2026-at-130-pm-et/
+                  - generic [ref=e611]:
+                    - generic [ref=e612]:
+                      - generic [ref=e613]:
+                        - paragraph [ref=e614]: Static Map
+                        - paragraph [ref=e615]: Jul 20, 2026
+                      - link [ref=e617] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-novopavlivka-direction-july-20-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Novopavlivka Direction, July 20, 2026 at 1:30 PM ET" [ref=e618]
+                    - generic [ref=e619]:
+                      - paragraph [ref=e621]:
+                        - generic [ref=e622]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e623]: RUSSIA & UKRAINE
+                        - generic [ref=e624]: UKRAINE
+                      - heading [level=3] [ref=e625]:
+                        - link "Assessed Control of Terrain in the Novopavlivka Direction, July 20, 2026 at 1:30 PM ET" [ref=e626] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-novopavlivka-direction-july-20-2026-at-130-pm-et/
+                  - generic [ref=e627]:
+                    - generic [ref=e628]:
+                      - generic [ref=e629]:
+                        - paragraph [ref=e630]: Static Map
+                        - paragraph [ref=e631]: Jul 20, 2026
+                      - link [ref=e633] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-zaporizhia-oblast-july-20-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in Eastern Zaporizhia Oblast, July 20, 2026 at 1:30 PM ET" [ref=e634]
+                    - generic [ref=e635]:
+                      - paragraph [ref=e637]:
+                        - generic [ref=e638]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e639]: RUSSIA & UKRAINE
+                        - generic [ref=e640]: UKRAINE
+                      - heading [level=3] [ref=e641]:
+                        - link "Assessed Control of Terrain in Eastern Zaporizhia Oblast, July 20, 2026 at 1:30 PM ET" [ref=e642] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-eastern-zaporizhia-oblast-july-20-2026-at-130-pm-et/
+                  - generic [ref=e643]:
+                    - generic [ref=e644]:
+                      - generic [ref=e645]:
+                        - paragraph [ref=e646]: Static Map
+                        - paragraph [ref=e647]: Jul 20, 2026
+                      - link [ref=e649] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-20-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Russo-Ukrainian War, July 20, 2026 at 1:30 PM ET" [ref=e650]
+                    - generic [ref=e651]:
+                      - paragraph [ref=e653]:
+                        - generic [ref=e654]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e655]: RUSSIA & UKRAINE
+                        - generic [ref=e656]: UKRAINE
+                      - heading [level=3] [ref=e657]:
+                        - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 20, 2026 at 1:30 PM ET" [ref=e658] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-20-2026-at-130-pm-et/
+                  - generic [ref=e659]:
+                    - generic [ref=e661]:
+                      - paragraph [ref=e662]: Update
+                      - paragraph [ref=e663]: Jul 19, 2026
+                    - generic [ref=e664]:
+                      - paragraph [ref=e666]:
+                        - generic [ref=e667]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e668]: RUSSIA & UKRAINE
+                        - generic [ref=e669]: UKRAINE
+                      - heading [level=3] [ref=e670]:
+                        - link "Russian Offensive Campaign Assessment, July 19, 2026" [ref=e671] [cursor=pointer]:
+                          - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-19-2026/
+                      - link "READ MORE" [ref=e673] [cursor=pointer]:
+                        - /url: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-19-2026/
+                  - generic [ref=e678]:
+                    - generic [ref=e679]:
+                      - generic [ref=e680]:
+                        - paragraph [ref=e681]: Static Map
+                        - paragraph [ref=e682]: Jul 19, 2026
+                      - link [ref=e684] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-19-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in the Russo-Ukrainian War, July 19, 2026 at 1:30 PM ET" [ref=e685]
+                    - generic [ref=e686]:
+                      - paragraph [ref=e688]:
+                        - generic [ref=e689]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e690]: RUSSIA & UKRAINE
+                        - generic [ref=e691]: UKRAINE
+                      - heading [level=3] [ref=e692]:
+                        - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 19, 2026 at 1:30 PM ET" [ref=e693] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-19-2026-at-130-pm-et/
+                  - generic [ref=e694]:
+                    - generic [ref=e695]:
+                      - generic [ref=e696]:
+                        - paragraph [ref=e697]: Static Map
+                        - paragraph [ref=e698]: Jul 19, 2026
+                      - link [ref=e700] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-northern-sumy-oblast-july-19-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in Northern Sumy Oblast, July 19, 2026 at 1:30 PM ET" [ref=e701]
+                    - generic [ref=e702]:
+                      - paragraph [ref=e704]:
+                        - generic [ref=e705]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e706]: RUSSIA & UKRAINE
+                        - generic [ref=e707]: UKRAINE
+                      - heading [level=3] [ref=e708]:
+                        - link "Assessed Control of Terrain in Northern Sumy Oblast, July 19, 2026 at 1:30 PM ET" [ref=e709] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-northern-sumy-oblast-july-19-2026-at-130-pm-et/
+                  - generic [ref=e710]:
+                    - generic [ref=e711]:
+                      - generic [ref=e712]:
+                        - paragraph [ref=e713]: Static Map
+                        - paragraph [ref=e714]: Jul 19, 2026
+                      - link [ref=e716] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-kupyansk-july-19-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain in Kupyansk, July 19, 2026 at 1:30 PM ET" [ref=e717]
+                    - generic [ref=e718]:
+                      - paragraph [ref=e720]:
+                        - generic [ref=e721]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e722]: RUSSIA & UKRAINE
+                        - generic [ref=e723]: UKRAINE
+                      - heading [level=3] [ref=e724]:
+                        - link "Assessed Control of Terrain in Kupyansk, July 19, 2026 at 1:30 PM ET" [ref=e725] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-kupyansk-july-19-2026-at-130-pm-et/
+                  - generic [ref=e726]:
+                    - generic [ref=e727]:
+                      - generic [ref=e728]:
+                        - paragraph [ref=e729]: Static Map
+                        - paragraph [ref=e730]: Jul 19, 2026
+                      - link [ref=e732] [cursor=pointer]:
+                        - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-19-2026-at-130-pm-et/
+                        - img "Assessed Control of Terrain near Kostyantynivka, July 19, 2026 at 1:30 PM ET" [ref=e733]
+                    - generic [ref=e734]:
+                      - paragraph [ref=e736]:
+                        - generic [ref=e737]: RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT
+                        - generic [ref=e738]: RUSSIA & UKRAINE
+                        - generic [ref=e739]: UKRAINE
+                      - heading [level=3] [ref=e740]:
+                        - link "Assessed Control of Terrain near Kostyantynivka, July 19, 2026 at 1:30 PM ET" [ref=e741] [cursor=pointer]:
+                          - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-19-2026-at-130-pm-et/
+                - navigation [ref=e744]:
+                  - link "Go to page 1" [ref=e745]: "1"
+                  - link "Go to page 2" [ref=e746] [cursor=pointer]: "2"
+                  - link "Go to page 3" [ref=e747] [cursor=pointer]: "3"
+                  - link "Go to page 533" [ref=e748] [cursor=pointer]: "533"
+                  - link "Go to next page" [ref=e749] [cursor=pointer]: Next
+        - generic [ref=e750]:
+          - generic "Interactive Maps" [ref=e751]:
+            - generic [ref=e752]:
+              - generic [ref=e753]:
+                - paragraph [ref=e754]: Russian Offensive Campaign Assessment
+                - heading "Interactive Maps" [level=2] [ref=e755]
+              - link "VIEW ALL" [ref=e756] [cursor=pointer]:
+                - /url: /analysis/map-room/?_product_line_filter=russian-offensive-campaign-assessment&_map_type=interactive-map
+            - generic [ref=e763]:
+              - generic [ref=e764]:
+                - generic [ref=e765]:
+                  - generic [ref=e766]:
+                    - paragraph [ref=e767]:
+                      - generic [ref=e768]: Interactive Map
+                    - paragraph [ref=e769]:
+                      - time [ref=e770]: May 31, 2026
+                  - link "Read more" [ref=e772] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/ukraine-interactive-time-lapse-may-2026/
+                - generic [ref=e773]:
+                  - generic [ref=e774]:
+                    - paragraph [ref=e775]:
+                      - generic [ref=e776]: Geospatial Intelligence
+                      - generic [ref=e777]: Russia & Ukraine
+                    - paragraph [ref=e778]:
+                      - generic [ref=e779]: Ukraine
+                  - paragraph [ref=e781]:
+                    - generic [ref=e785]: Updated
+                  - heading [level=3] [ref=e787]:
+                    - 'link "Ukraine Interactive Time-lapse: May 2026" [ref=e788] [cursor=pointer]':
+                      - /url: https://understandingwar.org/map/ukraine-interactive-time-lapse-may-2026/
+              - generic [ref=e789]:
+                - generic [ref=e790]:
+                  - generic [ref=e791]:
+                    - paragraph [ref=e792]:
+                      - generic [ref=e793]: Interactive Map
+                    - paragraph [ref=e794]:
+                      - time [ref=e795]: Sep 16, 2025
+                  - link "Read more" [ref=e797] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/interactive-time-lapse-august-2025/
+                - generic [ref=e798]:
+                  - generic [ref=e799]:
+                    - paragraph [ref=e800]:
+                      - generic [ref=e801]: Geospatial Intelligence
+                      - generic [ref=e802]: Russia & Ukraine
+                    - paragraph [ref=e803]:
+                      - generic [ref=e804]: Ukraine
+                  - paragraph [ref=e806]:
+                    - generic [ref=e810]: Updated
+                  - heading [level=3] [ref=e812]:
+                    - 'link "Ukraine Interactive Time-lapse: August 2025" [ref=e813] [cursor=pointer]':
+                      - /url: https://understandingwar.org/map/interactive-time-lapse-august-2025/
+              - generic [ref=e814]:
+                - generic [ref=e815]:
+                  - generic [ref=e816]:
+                    - paragraph [ref=e817]:
+                      - generic [ref=e818]: Interactive Map
+                    - paragraph [ref=e819]:
+                      - time [ref=e820]: Aug 28, 2025
+                  - link "Read more" [ref=e822] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/nova-kakhovka-dam-flooding-as-of-june-9-2023/
+                - generic [ref=e823]:
+                  - generic [ref=e824]:
+                    - paragraph [ref=e825]:
+                      - generic [ref=e826]: Geospatial Intelligence
+                      - generic [ref=e827]: Russia & Ukraine
+                    - paragraph [ref=e828]:
+                      - generic [ref=e829]: Ukraine
+                  - paragraph [ref=e831]:
+                    - generic [ref=e835]: Updated
+                  - heading [level=3] [ref=e837]:
+                    - link "Nova Kakhovka Dam Flooding as of June 9, 2023" [ref=e838] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/nova-kakhovka-dam-flooding-as-of-june-9-2023/
+              - generic [ref=e839]:
+                - generic [ref=e840]:
+                  - generic [ref=e841]:
+                    - paragraph [ref=e842]:
+                      - generic [ref=e843]: Interactive Map
+                    - paragraph [ref=e844]:
+                      - time [ref=e845]: Aug 28, 2025
+                  - link "Read more" [ref=e847] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/interactive-time-lapse-russias-war-in-ukraine/
+                - generic [ref=e848]:
+                  - generic [ref=e849]:
+                    - paragraph [ref=e850]:
+                      - generic [ref=e851]: Geospatial Intelligence
+                      - generic [ref=e852]: Russia & Ukraine
+                    - paragraph [ref=e853]:
+                      - generic [ref=e854]: Ukraine
+                  - paragraph [ref=e856]:
+                    - generic [ref=e860]: Updated
+                  - heading [level=3] [ref=e862]:
+                    - 'link "Interactive Time-lapse: Russia’s War in Ukraine" [ref=e863] [cursor=pointer]':
+                      - /url: https://understandingwar.org/map/interactive-time-lapse-russias-war-in-ukraine/
+          - generic "Static Maps" [ref=e864]:
+            - generic [ref=e865]:
+              - generic [ref=e866]:
+                - paragraph [ref=e867]: Russian Offensive Campaign Assessment
+                - heading "Static Maps" [level=2] [ref=e868]
+              - link "VIEW ALL" [ref=e869] [cursor=pointer]:
+                - /url: /analysis/map-room/?_product_line_filter=russian-offensive-campaign-assessment&_map_type=static-map
+            - generic [ref=e876]:
+              - generic [ref=e877]:
+                - generic [ref=e878]:
+                  - generic [ref=e879]:
+                    - paragraph [ref=e880]:
+                      - generic [ref=e881]: Static Map
+                    - paragraph [ref=e882]:
+                      - time [ref=e883]: Jul 23, 2026
+                  - link "Read more" [ref=e885] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-23-2026-at-130-pm-et/
+                - generic [ref=e886]:
+                  - generic [ref=e887]:
+                    - paragraph [ref=e888]:
+                      - generic [ref=e889]: Russia & Ukraine
+                    - paragraph [ref=e890]:
+                      - generic [ref=e891]: Ukraine
+                  - heading [level=3] [ref=e892]:
+                    - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 23, 2026 at 1:30 PM ET" [ref=e893] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-23-2026-at-130-pm-et/
+              - generic [ref=e894]:
+                - generic [ref=e895]:
+                  - generic [ref=e896]:
+                    - paragraph [ref=e897]:
+                      - generic [ref=e898]: Static Map
+                    - paragraph [ref=e899]:
+                      - time [ref=e900]: Jul 23, 2026
+                  - link "Read more" [ref=e902] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-23-2026-at-130-pm-et/
+                - generic [ref=e903]:
+                  - generic [ref=e904]:
+                    - paragraph [ref=e905]:
+                      - generic [ref=e906]: Russia & Ukraine
+                    - paragraph [ref=e907]:
+                      - generic [ref=e908]: Ukraine
+                  - heading [level=3] [ref=e909]:
+                    - link "Assessed Control of Terrain in the Lyman Tactical Area, July 23, 2026 at 1:30 PM ET" [ref=e910] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-july-23-2026-at-130-pm-et/
+              - generic [ref=e911]:
+                - generic [ref=e912]:
+                  - generic [ref=e913]:
+                    - paragraph [ref=e914]:
+                      - generic [ref=e915]: Static Map
+                    - paragraph [ref=e916]:
+                      - time [ref=e917]: Jul 23, 2026
+                  - link "Read more" [ref=e919] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-23-2026-at-130-pm-et/
+                - generic [ref=e920]:
+                  - generic [ref=e921]:
+                    - paragraph [ref=e922]:
+                      - generic [ref=e923]: Russia & Ukraine
+                    - paragraph [ref=e924]:
+                      - generic [ref=e925]: Ukraine
+                  - heading [level=3] [ref=e926]:
+                    - link "Assessed Control of Terrain near Kostyantynivka, July 23, 2026 at 1:30 PM ET" [ref=e927] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-july-23-2026-at-130-pm-et/
+              - generic [ref=e928]:
+                - generic [ref=e929]:
+                  - generic [ref=e930]:
+                    - paragraph [ref=e931]:
+                      - generic [ref=e932]: Static Map
+                    - paragraph [ref=e933]:
+                      - time [ref=e934]: Jul 22, 2026
+                  - link "Read more" [ref=e936] [cursor=pointer]:
+                    - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-22-2026-at-130-pm-et/
+                - generic [ref=e937]:
+                  - generic [ref=e938]:
+                    - paragraph [ref=e939]:
+                      - generic [ref=e940]: Russia & Ukraine
+                    - paragraph [ref=e941]:
+                      - generic [ref=e942]: Ukraine
+                  - heading [level=3] [ref=e943]:
+                    - link "Assessed Control of Terrain in the Russo-Ukrainian War, July 22, 2026 at 1:30 PM ET" [ref=e944] [cursor=pointer]:
+                      - /url: https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-july-22-2026-at-130-pm-et/
+        - generic "Methodology" [ref=e945]:
+          - generic [ref=e946]:
+            - heading "Methodology" [level=6] [ref=e947]
+            - heading "Analytic" [level=2] [ref=e948]
+            - paragraph [ref=e949]: ISW does not receive any classified material from any source, uses only publicly available information, and draws extensively on Russian, Ukrainian, and Western reporting and social media as well as commercially available satellite imagery and other geospatial data as the basis for these reports. References to all sources used are provided in the endnotes of each update. ISW does not forecast Ukrainian actions, collect on Ukrainian activities beyond Ukrainian officials’ public statements and Russian or public reporting on Ukrainian activities, or map Ukrainian units’ locations.
+          - generic [ref=e950]:
+            - heading "methodology" [level=6] [ref=e951]
+            - heading "mapping" [level=2] [ref=e952]
+            - paragraph [ref=e953]: ISW’s methodology for mapping conventional maneuver war in Ukraine relies on standard US military doctrinal definitions of tactical mission tasks as well as centuries-old conventions for displaying conventional military operations on terrain.
+            - link "more on isw’s mapping methodology" [ref=e954] [cursor=pointer]:
+              - /url: /analysis/russia-ukraine/ukraine/mapping-methodology-ukraine-product-line/
+        - generic "FAQ" [ref=e959]:
+          - paragraph [ref=e960]: Russian Offensive Campaign Assessment
+          - heading "FAQ" [level=3] [ref=e961]
+        - generic [ref=e963]:
+          - button "Does ISW receive classified information?" [ref=e965] [cursor=pointer]
+          - button "Does ISW receive data from sources on the ground?" [ref=e971] [cursor=pointer]
+          - button "How can media reach the ISW Team for comment?" [ref=e977] [cursor=pointer]
+          - button "Can media, government agencies, educational, and other organizations use ISW’s map data?" [ref=e983] [cursor=pointer]
+  - contentinfo [ref=e988]:
+    - generic [ref=e990]:
+      - generic [ref=e991]:
+        - generic [ref=e992]:
+          - figure [ref=e993]:
+            - img "ISW Logo" [ref=e994]
+          - generic [ref=e995]:
+            - paragraph [ref=e996]: 1400 16th Street NW, Suite 515Washington, DC 20036
+            - paragraph [ref=e997]:
+              - strong [ref=e998]: "P:"
+              - text: (202) 293-5550
+        - figure [ref=e1000]:
+          - img "Footer Ribbon Institute For The Study Of War" [ref=e1001]
+      - generic [ref=e1002]:
+        - generic [ref=e1003]:
+          - generic [ref=e1004]:
+            - heading [level=2] [ref=e1005]:
+              - link "ABOUT ISW" [ref=e1006] [cursor=pointer]:
+                - /url: /about-isw/
+            - navigation "Footer1 - About ISW" [ref=e1007]:
+              - list [ref=e1012]:
+                - listitem [ref=e1013]:
+                  - link "Our Capabilities" [ref=e1014] [cursor=pointer]:
+                    - /url: /about-isw/our-capabilities/
+                - listitem [ref=e1015]:
+                  - link "Our History" [ref=e1016] [cursor=pointer]:
+                    - /url: /about-isw/our-history/
+                - listitem [ref=e1017]:
+                  - link "Who We Are" [ref=e1018] [cursor=pointer]:
+                    - /url: /people/
+                - listitem [ref=e1019]:
+                  - link "Careers" [ref=e1020] [cursor=pointer]:
+                    - /url: /about-isw/careers/
+          - generic [ref=e1021]:
+            - heading [level=2] [ref=e1022]:
+              - link "TEAMS/PORTFOLIOS" [ref=e1023] [cursor=pointer]:
+                - /url: /analysis
+            - navigation "Footer2 - Analysis - Portfolio" [ref=e1024]:
+              - list [ref=e1029]:
+                - listitem [ref=e1030]:
+                  - link "Russia & Ukraine" [ref=e1031] [cursor=pointer]:
+                    - /url: /analysis/russia-ukraine/
+                - listitem [ref=e1032]:
+                  - link "Middle East" [ref=e1033] [cursor=pointer]:
+                    - /url: /analysis/middle-east/
+                - listitem [ref=e1034]:
+                  - link "China & Taiwan" [ref=e1035] [cursor=pointer]:
+                    - /url: /analysis/china-taiwan/
+                - listitem [ref=e1036]:
+                  - link "Defense of Europe" [ref=e1037] [cursor=pointer]:
+                    - /url: /analysis/defense-of-europe/
+                - listitem [ref=e1038]:
+                  - link "Adversary Entente" [ref=e1039] [cursor=pointer]:
+                    - /url: /analysis/adversary-entente-task-force/
+                - listitem [ref=e1040]:
+                  - link "Contemporary & Future War" [ref=e1041] [cursor=pointer]:
+                    - /url: /analysis/contemporary-future-war/
+                - listitem [ref=e1042]:
+                  - link "Geospatial Intelligence" [ref=e1043] [cursor=pointer]:
+                    - /url: /analysis/geospatial-intelligence/
+                - listitem [ref=e1044]:
+                  - link "Cognitive Warfare" [ref=e1045] [cursor=pointer]:
+                    - /url: https://understandingwar.org/analysis/cognitive-warfare/
+          - generic [ref=e1046]:
+            - heading [level=2] [ref=e1047]:
+              - link "ANALYSIS" [ref=e1048] [cursor=pointer]:
+                - /url: /analysis/
+            - navigation "Footer2 - Analysis" [ref=e1049]:
+              - list [ref=e1054]:
+                - listitem [ref=e1055]:
+                  - link "Map Room" [ref=e1056] [cursor=pointer]:
+                    - /url: /analysis/map-room/
+                - listitem [ref=e1057]:
+                  - link "Briefing Room" [ref=e1058] [cursor=pointer]:
+                    - /url: /analysis/briefing-room/
+                - listitem [ref=e1059]:
+                  - link "Research Library" [ref=e1060] [cursor=pointer]:
+                    - /url: /research
+            - heading [level=2] [ref=e1061]:
+              - link "EDUCATION" [ref=e1062] [cursor=pointer]:
+                - /url: /education/
+            - navigation "Footer3 - Education" [ref=e1063]:
+              - list [ref=e1068]:
+                - listitem [ref=e1069]:
+                  - link "Hertog War Studies Program" [ref=e1070] [cursor=pointer]:
+                    - /url: /education/hertog-war-studies-program/
+                - listitem [ref=e1071]:
+                  - link "Fellowships" [ref=e1072] [cursor=pointer]:
+                    - /url: /education/fellowships/
+                - listitem [ref=e1073]:
+                  - link "Internships" [ref=e1074] [cursor=pointer]:
+                    - /url: /education/internships/
+          - generic [ref=e1075]:
+            - heading [level=2] [ref=e1076]:
+              - link "GET INVOLVED" [ref=e1077] [cursor=pointer]:
+                - /url: /get-involved/
+            - navigation "Footer4 - Get Involved" [ref=e1078]:
+              - list [ref=e1083]:
+                - listitem [ref=e1084]:
+                  - link "Donate" [ref=e1085] [cursor=pointer]:
+                    - /url: /donate/
+                - listitem [ref=e1086]:
+                  - link "Planned Giving" [ref=e1087] [cursor=pointer]:
+                    - /url: /get-involved/planned-giving/
+                - listitem [ref=e1088]:
+                  - link "Our Partners" [ref=e1089] [cursor=pointer]:
+                    - /url: /get-involved/our-partners/
+            - heading [level=2] [ref=e1090]:
+              - link "NEWSROOM" [ref=e1091] [cursor=pointer]:
+                - /url: /newsroom/
+            - navigation "Media"
+        - generic [ref=e1092]:
+          - paragraph [ref=e1093]: SIGN UP FOR EMAIL UPDATES
+          - heading "JOIN OUR NETWORK" [level=2] [ref=e1094]
+          - link "SIGN UP" [ref=e1095] [cursor=pointer]:
+            - /url: /subscribe/
+      - generic [ref=e1100]:
+        - paragraph [ref=e1101]:
+          - text: ©2026 INSTITUTE FOR THE STUDY OF WAR. ALL RIGHTS RESERVED.
+          - link "FAIR USE & ATTRIBUTION POLICY" [ref=e1102] [cursor=pointer]:
+            - /url: /fair-use-and-attribution-policy/
+          - text: "|"
+          - link "PRIVACY POLICY" [ref=e1103] [cursor=pointer]:
+            - /url: /privacy-policy/
+        - generic [ref=e1104]:
+          - figure [ref=e1106]:
+            - link [ref=e1107] [cursor=pointer]:
+              - /url: https://bsky.app/profile/thestudyofwar.bsky.social
+              - img "Bluesky Icon - Institute For The Study of War" [ref=e1108]
+          - figure [ref=e1110]:
+            - link [ref=e1111] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/institute-for-the-study-of-war/
+              - img "LinkedIn - Institute For The Study of War" [ref=e1112]
+          - figure [ref=e1114]:
+            - link [ref=e1115] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/UnderstandingWarOrg
+              - img "YouTube - Institute For The Study of War" [ref=e1116]
+          - figure [ref=e1118]:
+            - link [ref=e1119] [cursor=pointer]:
+              - /url: https://www.instagram.com/thestudyofwar/?hl=en
+              - img "Instagram - Institute For The Study of War" [ref=e1120]
+          - figure [ref=e1122]:
+            - link [ref=e1123] [cursor=pointer]:
+              - /url: https://www.threads.com/@thestudyofwar
+              - img "Threads - Institute For The Study of War" [ref=e1124]
+          - figure [ref=e1126]:
+            - link [ref=e1127] [cursor=pointer]:
+              - /url: https://www.facebook.com/InstitutefortheStudyofWar
+              - img "Facebook - Institute For The Study of War" [ref=e1128]
+          - figure [ref=e1130]:
+            - link [ref=e1131] [cursor=pointer]:
+              - /url: https://x.com/thestudyofwar
+              - img "X-Twitter - Institute For The Study of War" [ref=e1132]
+      - link "Back to top of page" [ref=e1133] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e1135]: Back to Top
+    - paragraph
+  - iframe [ref=e1136]:
+    - button "Donate" [ref=f3e4] [cursor=pointer]

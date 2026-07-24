@@ -1,0 +1,8 @@
+[     376ms] [ERROR] Mixed Content: The page at 'https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/' was loaded over HTTPS, but requested an insecure stylesheet 'http://understandingwar.org/'. This request has been blocked; the content must be served over HTTPS. @ https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/:0
+[     610ms] [LOG] [RRM] === facetwp_filtered_post_ids fired === @ https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/:5289
+[     610ms] [LOG] [RRM] Incoming post_ids count: 15983 @ https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/:5289
+[     610ms] [LOG] [RRM] No search term or post_ids not array. Bailing. @ https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/:5289
+[     742ms] [LOG] Loading Fundraise Up @ https://understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-assessment/:157
+[     918ms] [ERROR] Failed to find main sign up form script, aborting. @ https://understandingwar.org/wp-content/cache/min/1/js/signup-form-widget/current/signup-form-widget.min.js?ver=1783439322:0
+[     994ms] [WARNING] false @ https://understandingwar.org/wp-content/cache/min/1/js/signup-form-widget/current/signup-form-widget.min.js?ver=1783439322:0
+[     994ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://listgrowthundefined.ctctcdn.com/v1/299eb57dde3dcb84ffb81c7c0f63cec4.json:0
