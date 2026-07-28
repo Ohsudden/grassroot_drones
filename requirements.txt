@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+tqdm
+nltk
+spacy
+seaborn
+matplotlib
+bertopic
+scikit-learn
+transformers

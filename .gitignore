@@ -1,0 +1,5 @@
+.venv
+
+reports/*
+models/*
+data/*
